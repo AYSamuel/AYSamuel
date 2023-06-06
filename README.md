@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjYjliYjVlYTUxYzMyODgxZTI5MWQxODA5ZWRhNDMzZWJiMTJjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+</div>
+
 # Hello, I'm A.Y. Samuel! 👋
 
 Welcome to my GitHub profile! Here's a little bit about me:
