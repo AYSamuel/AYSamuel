@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-## About Me
+## About Me 👨‍💻
 I am a passionate software engineer who loves to create and problem solve. I enjoy tackling challenges and building innovative solutions.
 
 ## My Interests
@@ -20,7 +20,7 @@ Throughout my journey, I've worked on numerous projects, both personal and profe
 
 To get a better sense of my skills and expertise, please explore my repositories and contributions. You'll find a mix of open-source projects, personal experiments, and collaborations that showcase my abilities.
 
-## Tech Stack
+## Tech Stack 👨‍💻
 I am well-versed in various technologies and tools that enable me to bring ideas to life. Some of the key technologies I work with include:
 - Programming Languages: Typescript, JavaScript.
 - Frameworks and Libraries: Nodejs, React, Express, ReactNative, Bootstrap, TailwindCss
@@ -28,9 +28,9 @@ I am well-versed in various technologies and tools that enable me to bring ideas
 - Tools and Platforms: Git, Github
 
 ## GitHub Statistics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AYSamuel&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-read-me-stats.vercel.app/api?username=AYSamuel&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYSamuel&theme=radical)
+[![Top Langs](https://github-read-me-stats.vercel.app/api/top-langs/?username=AYSamuel&&hide_progress=true)](https://github.com/AYSamuel/github-readme-stats)
 
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AYSamuel&theme=radical)
 
