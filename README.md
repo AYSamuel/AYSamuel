@@ -42,11 +42,11 @@ I am well-versed in various technologies and tools that enable me to bring ideas
 </div>
 
 <div>
-  <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/?size=80&id=74402&format=png" alt="MongoDb"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=80&id=13406&format=png" alt="SQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/?size=80&id=74402&format=png" alt="MongoDb"/></a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/?size=80&id=13406&format=png" alt="SQL"/></a>
   <a href="https://www.elephantsql.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/10828/10828570.png" width="80" alt="Elephant SQL"/></a>
-  <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/?size=80&id=20906&format=png" alt="Git"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=80&id=63777&format=png" alt="Github"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/?size=80&id=20906&format=png" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=80&id=63777&format=png" alt="Github"/></a>
 </div>
 
 # GitHub Stats
