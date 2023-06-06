@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjYjliYjVlYTUxYzMyODgxZTI5MWQxODA5ZWRhNDMzZWJiMTJjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 # Hello, I'm A.Y. Samuel! 👋
@@ -25,8 +25,14 @@ To get a better sense of my skills and expertise, please explore my repositories
 
 ## Tech Stack 👨‍💻
 I am well-versed in various technologies and tools that enable me to bring ideas to life. Some of the key technologies I work with include:
-- Programming Languages: Typescript, JavaScript.
-- Frameworks and Libraries: Nodejs, React, Express, ReactNative, Bootstrap, TailwindCss
+- Programming Languages: 
+<div id="badges">
+  <img src="https://img.icons8.com/?size=50&id=108784&format=png" alt="javascript"/> <img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png" alt="Typescript"/>
+</div>
+- Frameworks and Libraries:
+<div id="badges">
+  <img src="https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png" alt="Node js"/> <img src="https://img.icons8.com/?size=50&id=bzf0DqjXFHIW&format=png" alt="React js"/>
+</div>Nodejs, React, Express, ReactNative, Bootstrap, TailwindCss
 - Databases: MySQL, MongoDB
 - Tools and Platforms: Git, Github
 
@@ -41,7 +47,16 @@ I am well-versed in various technologies and tools that enable me to bring ideas
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler -->
 
 ## Get in Touch
-I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through [email/LinkedIn/Twitter] to discuss potential opportunities, offer feedback, or just have a friendly conversation.
+I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through
+<span id="badges">
+  <a href="https://www.linkedin.com/in/aysamuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:aysamuel007@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</span>
+to discuss potential opportunities, offer feedback, or just have a friendly conversation.
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
