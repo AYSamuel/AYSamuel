@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-## About Me 👨‍💻
+## About Me 👨
 I am a passionate software engineer who loves to create and problem solve. I enjoy tackling challenges and building innovative solutions.
 
 ## My Interests
