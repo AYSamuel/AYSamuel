@@ -26,7 +26,7 @@ To get a better sense of my skills and expertise, please explore my repositories
 
 # 👨‍💻Tech Stack
 
-I am well-versed in various technologies and tools that enable me to bring ideas to life. Some of the key technologies I work with include:
+Some of the key technologies I work with include:
 
 <div >
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/?size=80&id=108784&format=png" alt="javascript"/></a>
