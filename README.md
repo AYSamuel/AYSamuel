@@ -4,13 +4,11 @@
 
 # Hello, I'm A.Y. Samuel! 👋
 
-Welcome to my GitHub profile! Here's a little bit about me:
-
-## About Me 👨
+# 👨About Me
 
 I am a passionate software engineer who loves to create and problem solve. I enjoy tackling challenges and building innovative solutions.
 
-## My Interests
+# My Interests
 
 I have a diverse range of interests within the field of software development. Some areas that particularly captivate me include:
 
@@ -26,7 +24,7 @@ Throughout my journey, I've worked on numerous projects, both personal and profe
 
 To get a better sense of my skills and expertise, please explore my repositories and contributions. You'll find a mix of open-source projects, personal experiments, and collaborations that showcase my abilities.
 
-## Tech Stack 👨‍💻
+# 👨‍💻Tech Stack
 
 I am well-versed in various technologies and tools that enable me to bring ideas to life. Some of the key technologies I work with include:
 
@@ -51,7 +49,7 @@ I am well-versed in various technologies and tools that enable me to bring ideas
   <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=50&id=63777&format=png" alt="Github"/></a>
 </div>
 
-## GitHub Statistics
+# GitHub Stats
 
 ![My GitHub Stats](https://github-read-me-stats.vercel.app/api?username=AYSamuel&show_icons=true)
 
@@ -62,7 +60,7 @@ I am well-versed in various technologies and tools that enable me to bring ideas
 <!-- ## Random Developer Quote
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler -->
 
-## Get in Touch
+# 📫 How to reach me:
 
 I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through
 <span id="badges">
