@@ -30,15 +30,10 @@ To get a better sense of my skills and expertise, please explore my repositories
 
 I am well-versed in various technologies and tools that enable me to bring ideas to life. Some of the key technologies I work with include:
 
-## Programming Languages:
-
 <div id="badges">
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/?size=50&id=108784&format=png" alt="javascript"/></a>
  <a href"https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png" alt="Typescript"/></a>
 </div>
-
-## Frameworks and Libraries:
-
  <div>
   <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/?size=50&id=54087&format=png" alt="Node js"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=50&id=bzf0DqjXFHIW&format=png" alt="React js"/></a>
@@ -47,16 +42,10 @@ I am well-versed in various technologies and tools that enable me to bring ideas
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="https://img.icons8.com/?size=50&id=84710&format=png" alt="Booststrap"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png" alt="Tailwind CSS"/></a>
 </div>
-
-## Databases:
-
 <div>
   <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/?size=50&id=74402&format=png" alt="MongoDb"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=50&id=13406&format=png" alt="SQL"/></a>
 </div>
-
-## Tools and Platforms:
-
 <div>
   <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/?size=50&id=20906&format=png" alt="Git"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=50&id=63777&format=png" alt="Github"/></a>
