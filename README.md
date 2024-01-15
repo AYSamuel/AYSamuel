@@ -62,7 +62,7 @@ Some of the key technologies I work with include:
 
 # 📫 How to reach me:
 
-I'm always excited to connect with like-minded individuals and collaborate on interesting projects. Feel free to reach out to me through
+I'm always excited to connect and collaborate on interesting projects. Feel free to reach out to me through
 <span id="badges">
 <a href="https://www.linkedin.com/in/aysamuel/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
