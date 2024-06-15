@@ -50,14 +50,6 @@ Some of the key technologies I work with include:
   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=80&id=63777&format=png" alt="Github"/></a>
 </div>
 
-# GitHub Stats
-
-![My GitHub Stats](https://github-read-me-stats.vercel.app/api?username=AYSamuel&show_icons=true)
-
-[![Top Langs](https://github-read-me-stats.vercel.app/api/top-langs/?username=AYSamuel&&hide_progress=true)](https://github.com/AYSamuel/github-readme-stats)
-
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AYSamuel&theme=radical)
-
 <!-- ## Random Developer Quote
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler -->
 
