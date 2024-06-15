@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
-# Hello, I'm A.Y. Samuel! 👋
+# Hello, I'm Ayo Bankole! 👋
 
 # 👨About Me
 
@@ -33,6 +33,7 @@ Some of the key technologies I work with include:
  <!-- <a href"https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png" alt="Typescript"/></a> -->
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/?size=80&id=54087&format=png" alt="Node js"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/?size=80&id=bzf0DqjXFHIW&format=png" alt="React js"/></a>
+<a href="https://angular.dev/" target="_blank"><img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" alt="Angular"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark-thumbnail.png" width="80" alt="Express js"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/?size=80&id=123605&format=png" alt="ReactNative"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://devarticles.in/wp-content/uploads/2021/10/nextjs-log.jpeg" width="80" alt="Next.js"/></a>
